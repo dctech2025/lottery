@@ -1,0 +1,2 @@
+# lottery
+Prize Distribution System
